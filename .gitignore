@@ -1,0 +1,18 @@
+# virtual env — never commit this
+.venv/
+
+# Jupyter autosaves
+.ipynb_checkpoints
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.cursor/
